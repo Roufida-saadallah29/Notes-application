@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textAlignment="center"
+    android:padding="10dp">
+
+
+    <EditText
+        android:id="@+id/newNote"
+        android:layout_width="340dp"
+        android:layout_height="250dp"
+        android:layout_marginTop="10dp"
+        android:hint="Prendre Note"
+        android:padding="10dp"
+        android:textAlignment="center"
+        android:textSize="25sp" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/newNote"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginBottom="15dp">
+
+        <Button
+            android:id="@+id/NoterBut"
+            android:layout_width="115dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="30dp"
+            android:layout_marginLeft="100dp"
+            android:text="Noter"
+            android:textColor="#CE1E1C1C"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+
+</RelativeLayout>
