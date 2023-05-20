@@ -11,9 +11,9 @@ This repository contains the code for a note-taking application that allows user
 - Note Details: Clicking on an item in the list navigates users to a new page that shows the complete text of the note along with its date and time.
 - Text-to-Speech: On the note details page, users can listen to the note using text-to-speech synthesis. The speech synthesis stops if the user changes activity or exits the app.
 
-#Demo:
+# Demo:
 
-[![Video Name](https://drive.google.com/file/d/1A_fR8jQovUUTR0GgVYhUQ_sia40JAkbG/view?usp=sharing)
+ [![Video Name](https://drive.google.com/file/d/1A_fR8jQovUUTR0GgVYhUQ_sia40JAkbG/view?usp=sharing)
 
 ##License
 
