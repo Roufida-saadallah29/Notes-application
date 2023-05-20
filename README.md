@@ -13,8 +13,8 @@ This repository contains the code for a note-taking application that allows user
 
 # Demo:
 
- [![Video Name](https://drive.google.com/file/d/1A_fR8jQovUUTR0GgVYhUQ_sia40JAkbG/view?usp=sharing)
+ ![Video Name](https://drive.google.com/file/d/1A_fR8jQovUUTR0GgVYhUQ_sia40JAkbG/view?usp=sharing)
 
-##License
+## License
 
 This project is licensed under the MIT License.
