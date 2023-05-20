@@ -13,7 +13,7 @@ This repository contains the code for a note-taking application that allows user
 
 # Demo:
 
- [![Watch the video](https://drive.google.com/file/d/1A_fR8jQovUUTR0GgVYhUQ_sia40JAkbG/view)
+ [![Video Name](https://drive.google.com/uc?export=download&id=1A_fR8jQovUUTR0GgVYhUQ_sia40JAkbG)](https://drive.google.com/file/d/1A_fR8jQovUUTR0GgVYhUQ_sia40JAkbG/view)
 
 ## License
 
